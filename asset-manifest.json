@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/coffee-house/static/css/main.990d9e2a.css",
+    "main.js": "/coffee-house/static/js/main.d87505c4.js",
+    "static/media/paper-bg.png": "/coffee-house/static/media/paper-bg.af207096280dcfff71bd.png",
+    "static/media/main_bg.png": "/coffee-house/static/media/main_bg.ea6063037c6cab1fc667.png",
+    "static/media/for-your-pleasure-bg.png": "/coffee-house/static/media/for-your-pleasure-bg.7ee8fe885282c335c6ea.png",
+    "static/media/our_coffee_bg.png": "/coffee-house/static/media/our_coffee_bg.a329a58c7f639ca648e3.png",
+    "static/media/logo-for-coffee.jpg": "/coffee-house/static/media/logo-for-coffee.e635f6a1317500d8c37f.jpg",
+    "static/media/coffee-1.png": "/coffee-house/static/media/coffee-1.b9f1da4ab925b07cb2ac.png",
+    "static/media/about-our-beans-pic.png": "/coffee-house/static/media/about-our-beans-pic.fc83783b8b621a4fc75e.png",
+    "static/media/wrong-page.png": "/coffee-house/static/media/wrong-page.69cbc13dca53aa7c7f5d.png",
+    "static/media/for-your-pleasure.png": "/coffee-house/static/media/for-your-pleasure.75c77882bd2ff0dd3e0b.png",
+    "static/media/coffee-4.jpg": "/coffee-house/static/media/coffee-4.ad17b258da064bed4810.jpg",
+    "static/media/coffee-2.jpg": "/coffee-house/static/media/coffee-2.6d7338219bbd7d3d162d.jpg",
+    "static/media/coffee-3.jpg": "/coffee-house/static/media/coffee-3.926c65e2fa14316a63ba.jpg",
+    "static/media/google1.webp": "/coffee-house/static/media/google1.320c0f24369ce44b47fc.webp",
+    "static/media/beans3.png": "/coffee-house/static/media/beans3.0ee5e67f3ae869a7ada5.png",
+    "static/media/beans1.png": "/coffee-house/static/media/beans1.d4ef96c4a053ad5162e0.png",
+    "static/media/beans2.png": "/coffee-house/static/media/beans2.91a4c5aea495690b0418.png",
+    "static/media/coffee-6.jpg": "/coffee-house/static/media/coffee-6.21a673379fa06a3aa3b5.jpg",
+    "static/media/coffee-5.webp": "/coffee-house/static/media/coffee-5.b71592c1dac037f4daf3.webp",
+    "static/media/beans_logo.svg": "/coffee-house/static/media/beans_logo.023b976cf584c92cb61a.svg",
+    "index.html": "/coffee-house/index.html",
+    "main.990d9e2a.css.map": "/coffee-house/static/css/main.990d9e2a.css.map",
+    "main.d87505c4.js.map": "/coffee-house/static/js/main.d87505c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.990d9e2a.css",
+    "static/js/main.d87505c4.js"
+  ]
+}
