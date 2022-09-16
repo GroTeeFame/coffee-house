@@ -1,0 +1,22 @@
+.header-container {
+    height: 260px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    h2 {
+        font-size: 40px;
+        line-height: 58px;
+        color: #FFFFFF; 
+        text-align: center;
+    }
+} 
+
+@media screen and (max-width: 480px) {
+    .header-container {
+        h2 {
+            margin-top: 75px;
+        }
+    }    
+}
